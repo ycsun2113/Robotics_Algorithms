@@ -1,6 +1,6 @@
 # Robotics Algorithms
 
-Python implementations of basic robotics algorithms from [ROB 422: Introduction to Algorithmic Robotics](https://berenson.robotics.umich.edu/courses/fall2024iar/index.html) course at the University of Michigan, covering optimization, motion planning, grasping, inverse kinematics, point cloud processing, and Kalman filtering.
+Python implementations of basic robotics algorithms from the [ROB 422: Introduction to Algorithmic Robotics](https://berenson.robotics.umich.edu/courses/fall2024iar/index.html) course at the University of Michigan, covering optimization, motion planning, grasping, inverse kinematics, point cloud processing, and Kalman filtering.
 
 
 ## Contents
